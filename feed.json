@@ -1,0 +1,88 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Barnaj",
+    "description": "",
+    "home_page_url": "https://njbarbara.github.io/gh-pages",
+    "feed_url": "https://njbarbara.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Najib Barbara"
+    },
+    "items": [
+        {
+            "id": "https://njbarbara.github.io/gh-pages/tentative-de-bot-team-fortress.html",
+            "url": "https://njbarbara.github.io/gh-pages/tentative-de-bot-team-fortress.html",
+            "title": "Voiture autonome",
+            "summary": "J'ai eu un squelette de modèle de voiture pour mon anniversaire. Le modèle est composé d’un module ultrason, d’une carte Arduino, d’un récepteur infrarouge (qui sert à diriger la voiture manuellement, comme grâce à une télécommande de télévision), et d’un autre module permettant de contrôler&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">J'ai eu un squelette de modèle de voiture pour mon anniversaire. Le modèle est composé d’un module ultrason, d’une carte Arduino, d’un récepteur infrarouge (qui sert à diriger la voiture manuellement, comme grâce à une télécommande de télévision), et d’un autre module permettant de contrôler le moteur. </span></p>\n<p><span style=\"font-weight: 400;\">J'ai programmé la voiture pour qu'elle avance automatiquement en ligne droite sauf quand elle détecte un obstacle à 20 cm de celle-ci (grâce au module ultrason), elle tourne à droite et recommence à essayer d'avancer.</span></p>",
+            "image": "https://njbarbara.github.io/gh-pages/media/posts/5/automatic-car.png",
+            "author": {
+                "name": "Najib Barbara"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T15:14:26+02:00",
+            "date_modified": "2023-04-02T15:37:04+02:00"
+        },
+        {
+            "id": "https://njbarbara.github.io/gh-pages/station-meteo.html",
+            "url": "https://njbarbara.github.io/gh-pages/station-meteo.html",
+            "title": "Reconnaissance de... moi même",
+            "summary": "En bricolant avec ma webcam et OpenCV, j'ai fait un programme de reconnaissance facial que j’ai utilisé pour reconnaître mon visage. Tout d’abord la caméra est lancée puis la photo de mon visage est ensuite chargée pour en calculer la signature. La reconnaissance de visage&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">En bricolant avec ma webcam et OpenCV, j'ai fait un programme de reconnaissance facial que j’ai utilisé pour reconnaître mon visage. </span></p>\n<p><span style=\"font-weight: 400;\">Tout d’abord la caméra est lancée puis la photo de mon visage est ensuite chargée pour en calculer la signature. La reconnaissance de visage est ensuite exécutée à l'infini. Si le visage vu par la caméra a une signature qui correspond à celle du visage qui a été chargé alors un rectangle se dessinera autour du visage et un texte s’affichera en haut à gauche de celui-ci, dans le cas contraire le mot inconnu s’affichera en console.</span></p>\n<p>Le code est ci-dessous :</p>\n<p>\n<script src=\"https://gist.github.com/njbarbara/2b8a5668b3304eb3031a71564cd311e1.js\"></script>\n</p>",
+            "image": "https://njbarbara.github.io/gh-pages/media/posts/4/Screenshot-2023-04-02-at-15.50.05.png",
+            "author": {
+                "name": "Najib Barbara"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T15:13:59+02:00",
+            "date_modified": "2023-04-02T15:52:46+02:00"
+        },
+        {
+            "id": "https://njbarbara.github.io/gh-pages/telemetre-ultrason.html",
+            "url": "https://njbarbara.github.io/gh-pages/telemetre-ultrason.html",
+            "title": "Télémètre ultrason",
+            "summary": "J'ai fait un petit projet de télémètre ultrason pour tester d'utiliser un capteur à ultrason. Le montage est composé d’un afficheur LCD, un module ultrason, et un capteur de température. Grâce au module ultrason nous pouvons calculer la distance entre celui-ci et un obstacle qui&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">J'ai fait un petit projet de télémètre ultrason pour tester d'utiliser un capteur à ultrason. Le montage est composé d’un afficheur LCD, un module ultrason, et un capteur de température.</span></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://njbarbara.github.io/gh-pages/media/posts/3/telemetre-2.png\" alt=\"\" width=\"1280\" height=\"827\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://njbarbara.github.io/gh-pages/media/posts/3/responsive/telemetre-2-xs.png 300w ,https://njbarbara.github.io/gh-pages/media/posts/3/responsive/telemetre-2-sm.png 480w ,https://njbarbara.github.io/gh-pages/media/posts/3/responsive/telemetre-2-md.png 768w\"></figure>\n<p><span style=\"font-weight: 400;\">Grâce au module ultrason nous pouvons calculer la distance entre celui-ci et un obstacle qui sera affichée sur l’écran, et le capteur de température mesure la température ambiante qui sera elle aussi affichée sur l’écran.</span></p>",
+            "image": "https://njbarbara.github.io/gh-pages/media/posts/3/telemetre.png",
+            "author": {
+                "name": "Najib Barbara"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T15:13:52+02:00",
+            "date_modified": "2023-04-02T15:55:42+02:00"
+        },
+        {
+            "id": "https://njbarbara.github.io/gh-pages/reconnaissance-faciale.html",
+            "url": "https://njbarbara.github.io/gh-pages/reconnaissance-faciale.html",
+            "title": "Station météo",
+            "summary": "J'ai reçu un petit paquet de capteurs pour monter une station météo basée Raspberry PiCo pour mon anniversaire. La Raspberry PiCo est un micro-contrôleur et est plus proche d'un Arduino que d'un Raspberry Pi habituel. Ce projet est composé d’un capteur de température, d’humidité, de&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">J'ai reçu un petit paquet de capteurs pour monter une station météo basée Raspberry PiCo pour mon anniversaire. La Raspberry PiCo est un micro-contrôleur et est plus proche d'un Arduino que d'un Raspberry Pi habituel. </span></p>\n<p><span style=\"font-weight: 400;\">Ce projet est composé d’un capteur de température, d’humidité, de pression rassemblé en un seul module. Je capture toutes les données des capteurs toutes les 30 secondes et je les affiche à l'écran. Je me suis basé sur le tutoriel suivant :</span></p>\n<p><a href=\"https://www.framboise314.fr/raspberry-pi-pico-starter-kit-une-station-de-mesure-climatique/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.framboise314.fr/raspberry-pi-pico-starter-kit-une-station-de-mesure-climatique/</a></p>\n<p>Ça me permet d'avoir une petite station météo à ma fenêtre.</p>\n<p> </p>",
+            "image": "https://njbarbara.github.io/gh-pages/media/posts/2/station-meteo-140610.jpg",
+            "author": {
+                "name": "Najib Barbara"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T15:13:40+02:00",
+            "date_modified": "2023-04-02T16:03:12+02:00"
+        },
+        {
+            "id": "https://njbarbara.github.io/gh-pages/voiture-autonome.html",
+            "url": "https://njbarbara.github.io/gh-pages/voiture-autonome.html",
+            "title": "Tentative de bot team fortress",
+            "summary": "J'ai voulu faire un test de bot pour team fortress 2 avec OpenCv et PyAutoGui et une Webcam. Dans le principe, mon idée était de reproduire la reconnaissance faciale que j'ai utilisé pour me reconnaître mais sur des personnages de team fortress 2. Pour ne&hellip;",
+            "content_html": "<p><span style=\"font-weight: 400;\">J'ai voulu faire un test de bot pour team fortress 2 avec OpenCv et PyAutoGui et une Webcam.</span></p>\n<p>Dans le principe, mon idée était de reproduire <a href=\"https://njbarbara.github.io/gh-pages/station-meteo.html\" target=\"_blank\" rel=\"noopener noreferrer\">la reconnaissance faciale</a> que j'ai utilisé pour me reconnaître mais sur des personnages de team fortress 2. Pour ne pas se faire reconnaître par le logiciel anti-triche, je ne voulais pas lire les images provenant du jeu (c'était aussi très difficile) mais plutôt utiliser une webcam qui regarde mon écran d'ordinateur.<a href=\"https://njbarbara.github.io/gh-pages/station-meteo.html\"></a></p>\n<p><span style=\"font-weight: 400;\">Mon idée du fonctionnement :</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Plusieurs images d’adversaires sont chargées, la reconnaissance faciale est lancée.</span></li>\n<li><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\">L’écran est divisé en quatre rectangles de même aire, un en haut à gauche, un autre en haut à droite, un autre en bas à gauche, un dernier en bas à droite.</span></li>\n<li><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\">Si la tête d’un ennemi est détectée dans l’un de ces rectangles alors le curseur s’orientera vers celui-ci à l’aide des fonctions importées de la librairie pyautogui, puis tirer approximativement sur l’ennemi détecté.</span></li>\n</ul>\n<p>Le bot ne fonctionnait pas bien car c'était difficile de faire en sorte de viser précisément. De plus, il ne faisait pas la différence entre alliés et ennemis et tentait de tirer sur les personnages qu'il voyait sans arrêt.</p>",
+            "image": "https://njbarbara.github.io/gh-pages/media/posts/1/Screenshot-2023-04-02-at-16.09.22.png",
+            "author": {
+                "name": "Najib Barbara"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-02T15:12:48+02:00",
+            "date_modified": "2023-04-02T16:09:41+02:00"
+        }
+    ]
+}
